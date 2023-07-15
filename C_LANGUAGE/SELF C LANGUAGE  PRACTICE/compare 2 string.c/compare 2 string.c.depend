@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1641714862 source:d:\pactice\compare 2 string.c\main.c
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641731608 source:d:\pactice\reverse of string.c\main.c
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+

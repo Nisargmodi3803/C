@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642689110 source:d:\user defined function\factorial of number using indirect recursion.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

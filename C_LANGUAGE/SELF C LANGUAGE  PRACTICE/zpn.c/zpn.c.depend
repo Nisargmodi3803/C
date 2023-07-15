@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641663871 source:d:\pactice\zpn.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

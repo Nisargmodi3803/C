@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1643951862 source:d:\self c language  practice\game1[guess a number].c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

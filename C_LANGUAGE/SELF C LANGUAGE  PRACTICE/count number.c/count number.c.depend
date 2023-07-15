@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641842294 source:d:\self c language  practice\count number.c\main.c
+	<stdio.h>
+	<stdlib.h>
+

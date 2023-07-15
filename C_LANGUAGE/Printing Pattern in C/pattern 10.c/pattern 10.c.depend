@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644768784 source:d:\c language\printing pattern in c\pattern 10.c\main.c
+	<stdio.h>
+	<stdlib.h>
+
