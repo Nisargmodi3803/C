@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1641734846 source:d:\pactice\uppercase to lowercase verseversa.c\main.c
-	<stdlib.h>
-	<string.h>
-	<stdlib.h>
-	<stdio.h>
-	<stdlib.h>
-	<ctype.h>
-
