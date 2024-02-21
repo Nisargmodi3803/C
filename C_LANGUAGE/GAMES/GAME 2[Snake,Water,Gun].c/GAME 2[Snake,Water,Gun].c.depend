@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1645119600 source:d:\c language\games\game 2[snake,water,gun].c\main.c
-	<stdio.h>
-	<stdlib.h>
-	<time.h>
-
